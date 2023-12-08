@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Freelance**
 
-- 🌱 I’m currently learning **CTF,AI learning and Quantum Computer.**
+- 🌱 I’m currently learning **CTF, AI learning and Quantum Computer.**
 
 - 👯 I’m looking to collaborate on **Apex-Force**
 
