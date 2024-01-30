@@ -1,12 +1,21 @@
-<h1 align="center">Hi 👋, I'm Jacob Marshall</h1>
-<h3 align="center">A passionate backend developer, IoT, Robotic and Cyber-Security from Laos</h3>
-<img align="center" alt="Coding" width="200" src="https://www.icegif.com/wp-content/uploads/2022/12/icegif-502.gif">
+<table align="center">
+  <tr>
+    <td style="vertical-align: top;">
+      <img align="left" alt="Coding" width="300px" height="300px" src="https://www.icegif.com/wp-content/uploads/2022/12/icegif-502.gif">
+    </td>
+    <td style="vertical-align: top;">
+      <h1>Hi 👋, I'm Jacob Marshall</h1>
+      <h3>A passionate backend developer and Cyber-Security from Laos</h3>
+      <div style="font-size: larger;">
+        <p><img src="https://komarev.com/ghpvc/?username=af-jacob&label=Profile%20views&color=0e75b6&style=flat" alt="af-jacob" /></p>
+      </div>
+      <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=af-jacob" alt="af-jacob" /></a></p>
+      <p><a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a></p>
+    </td>
+  </tr>
+</table>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=af-jacob&label=Profile%20views&color=0e75b6&style=flat" alt="af-jacob" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=af-jacob" alt="af-jacob" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **Freelance**
 
