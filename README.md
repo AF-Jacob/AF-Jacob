@@ -25,12 +25,14 @@
 
 - 💬 Ask me about **Sabaidee**
 
-- 📫 How to reach me **Jacob.marshallx@skiff.com**
+- 📫 How to reach me **Jacob-valor@proton.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/jacob.__.marshall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jacob.__.marshall" height="30" width="40" /></a>
-<a href="https://discord.gg/Jacob._.marshall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Jacob._.marshall" height="30" width="40" /></a>
+<a href="https://www.instagram.com/jacob._.valor/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jacob.__.marshall" height="30" width="40" /></a>
+<a href="https://discord.gg/Jacob._.valor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Jacob._.marshall" height="30" width="40" /></a>
+</p>
+<a href="[https://discord.gg/Jacob._.valor](https://www.notion.so/CTF-c76c712e1079475abc94e07899a33f7f?pvs=4)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Jacob._.marshall" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
